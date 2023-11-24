@@ -1,0 +1,33 @@
+[
+    {
+        "id":1,
+        "name": "Arnes Verde Militar Para Perro",
+        "price": 108.400, 
+        "img": "https://kanu.vtexassets.com/arquivos/ids/167077-800-auto?v=638316008312800000&width=800&height=auto&aspect=true"
+    },
+
+{
+    "id":2,
+    "name": "Comedero Grande 22 Cm Para Perro",
+    "price": 20.900, 
+    "img":"https://kanu.vtexassets.com/arquivos/ids/166882-800-auto?v=638297125138670000&width=800&height=auto&aspect=true"
+},
+{
+    "id":3,
+    "name": "Comedero Doble Ref KC7-018 Para Gato",
+    "price": 23.700, 
+    "img":"https://kanu.vtexassets.com/arquivos/ids/165992-800-auto?v=637933413010930000&width=800&height=auto&aspect=true"
+},
+{
+    "id":4,
+    "name": "Alfombra Azul Ref IM6-011 Para Perro",
+    "price": 181.000, 
+    "img":"https://kanu.vtexassets.com/arquivos/ids/165571-800-auto?v=637813358882300000&width=800&height=auto&aspect=true"
+},
+{
+    "id":5,
+    "name": "Collar Riata Tiburones Para Perro",
+    "price": 36.900, 
+    "img":"https://kanu.vtexassets.com/arquivos/ids/165417-800-auto?v=637777084355230000&width=800&height=auto&aspect=true"
+}
+]
