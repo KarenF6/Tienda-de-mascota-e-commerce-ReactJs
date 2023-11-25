@@ -1,33 +1,40 @@
 [
     {
         "id":1,
-        "name": "Arnes Verde Militar Para Perro",
-        "price": 98.400, 
-        "img": "https://images-na.ssl-images-amazon.com/images/I/71OlaYvFQlL._AC_UL210_SR210,210_.jpg"},
+        "name": "Royal Canin - Mini Puppy",
+        "price": 95, 
+        "img": "https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/528_173857_Royal_Canin_Mini_Puppy_1658782097_500x500.jpg"
+    },
 
 {
     "id":2,
-    "name": "Comedero Grande 22 Cm Para Perro",
-    "price": 20.900, 
-    "img":"https://img.freepik.com/fotos-premium/taza-llena-pedazos-alimento-seco-mascotas-aislado-bol-comida-metal-perro-o-gato_113111-56.jpg" 
+    "name": "Royal Canin - Yorkshire Terrier Adult",
+    "price": 68, 
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/476_61257_Royal_Canin_Yorkshire_Terrier_Adulto_1616591692_2186x2186.jpg" 
     
 },
 {
     "id":3,
-    "name": "Comedero Doble Ref KC7-018 Para Gato",
-    "price": 100.700, 
-    "img":"https://th.bing.com/th/id/OIP.y12ZKFAmqAGc8J62P7yBwAHaHa?rs=1&pid=ImgDetMain"
+    "name": "Royal Canin - Mini Adult ",
+    "price": 70, 
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/459_62312_Royal_Canin_Mini_Adulto_1616619959_2186x2186.jpg"
 },
 {
     "id":4,
-    "name": "Alfombra Azul  Para Perro",
-    "price": 181.000, 
-    "img":"https://th.bing.com/th/id/OIP.JLk_7HsnAUoeJQsVy5AKbQAAAA?rs=1&pid=ImgDetMain"
+    "name": "Pro Plan Skin & Stomach ",
+    "price": 91, 
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/19ee2bd4657a5da8c9f9594f612498bf_1678734057.jpg"
 },
 {
     "id":5,
-    "name": "Collar Riata Tiburones Para Perro",
-    "price": 36.900, 
-    "img":"https://th.bing.com/th/id/OIP.oFqMged1VsKolZ-5fcfLngHaHa?rs=1&pid=ImgDetMain"
+    "name": "True Nature Pollo Vegetales",
+    "price": 95, 
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/6676f8ba2ab545fdecc7dd1114346ab9_1679063282.jpg"
+},
+{
+   "id":6,
+    "name": "True Nature Cordero y Arroz",
+    "price": 85, 
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/78d2fb57550a5f5eadd37d218000c658_1679064063.jpg"
 }
 ]
