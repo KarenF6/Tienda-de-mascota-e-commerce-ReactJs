@@ -1,3 +1,8 @@
+/* INTEGRANTES:
+Karen Dayana Fuentes Mendoza
+Cesar Luis Alean Hernandez
+*/
+
 import { useContext } from "react";
 import { dataContext } from "../Context/DataContext";
 

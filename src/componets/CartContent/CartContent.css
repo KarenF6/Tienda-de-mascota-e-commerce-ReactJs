@@ -1,3 +1,8 @@
+/* INTEGRANTES:
+Karen Dayana Fuentes Mendoza
+Cesar Luis Alean Hernandez
+*/
+
 .cartContent {
     display: flex;
     justify-content: space-around;
@@ -24,7 +29,7 @@
 .cart.message.center{
     text-align: center;
     margin-top: 40px;
-    
+
 }
 
 .counter-button {
