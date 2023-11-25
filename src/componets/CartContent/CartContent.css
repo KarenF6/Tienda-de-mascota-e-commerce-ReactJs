@@ -9,6 +9,12 @@
     height: 120px;
     width: 100px;
     text-align: center;
+    box-shadow: 0 0 10px #666;
+    scale: 1.05;
+    box-shadow: 0 0 10px #666;
+    scale: 1.05;
+
+
 }
 
 .cartTotal {

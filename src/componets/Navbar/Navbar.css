@@ -2,6 +2,7 @@
     position: sticky;
     z-index: 3;
     top: 0;
+    
 }
 
 .navbar {
@@ -9,6 +10,7 @@
     justify-content: space-between;
     height: 15vh;
     background-color: #1b1b1b;
+
 }
 
 .navbar-logo {
@@ -17,6 +19,7 @@
     color: #fff;
     margin-top: 4vh;
     cursor: pointer;
+    
 }
 
 .seeCarrito {
@@ -25,4 +28,7 @@
     margin-top: 4vh;
     cursor: pointer;
     text-decoration: none;
+    box-shadow: 0 0 10px #666;
+    scale: 1.05;
+
 }

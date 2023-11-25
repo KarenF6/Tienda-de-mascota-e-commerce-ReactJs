@@ -3,38 +3,48 @@
         "id":1,
         "name": "Royal Canin - Mini Puppy",
         "price": 95, 
-        "img": "https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/528_173857_Royal_Canin_Mini_Puppy_1658782097_500x500.jpg"
+        "img": "https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/528_173857_Royal_Canin_Mini_Puppy_1658782097_500x500.jpg",
+        "quanty": 1
+        
     },
 
 {
     "id":2,
-    "name": "Royal Canin - Yorkshire Terrier Adult",
+    "name": "Royal Canin Yorkshire Terrier Adult",
     "price": 68, 
-    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/476_61257_Royal_Canin_Yorkshire_Terrier_Adulto_1616591692_2186x2186.jpg" 
-    
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/476_61257_Royal_Canin_Yorkshire_Terrier_Adulto_1616591692_2186x2186.jpg" ,
+    "quanty": 1
+
 },
 {
     "id":3,
     "name": "Royal Canin - Mini Adult ",
     "price": 70, 
-    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/459_62312_Royal_Canin_Mini_Adulto_1616619959_2186x2186.jpg"
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/459_62312_Royal_Canin_Mini_Adulto_1616619959_2186x2186.jpg",
+    "quanty": 1
+
 },
 {
     "id":4,
     "name": "Pro Plan Skin & Stomach ",
     "price": 91, 
-    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/19ee2bd4657a5da8c9f9594f612498bf_1678734057.jpg"
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/19ee2bd4657a5da8c9f9594f612498bf_1678734057.jpg",
+    "quanty": 1
 },
 {
     "id":5,
     "name": "True Nature Pollo Vegetales",
     "price": 95, 
-    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/6676f8ba2ab545fdecc7dd1114346ab9_1679063282.jpg"
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/6676f8ba2ab545fdecc7dd1114346ab9_1679063282.jpg",
+    "quanty": 1
+
 },
 {
    "id":6,
     "name": "True Nature Cordero y Arroz",
     "price": 85, 
-    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/78d2fb57550a5f5eadd37d218000c658_1679064063.jpg"
+    "img":"https://laika.com.co/cdn-cgi/image/fit=scale-down,width=250,format=auto,quality=80,onerror=redirect/https://laikapp.s3.amazonaws.com/dev_images_products/78d2fb57550a5f5eadd37d218000c658_1679064063.jpg",
+    "quanty": 1
+
 }
 ]
