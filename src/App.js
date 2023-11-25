@@ -1,6 +1,11 @@
 import Home from './componets/Home/Home';
 import CartContent from './componets/CartContent/CartContent';
 import DataProvider from './componets/Context/DataContext';
+/* INTEGRANTES:
+Karen Dayana Fuentes Mendoza
+Cesar Luis Alean Hernandez
+*/
+
 import { BrowserRouter, Routes, Route} from 'react-router-dom';
 function App() {
   return (
