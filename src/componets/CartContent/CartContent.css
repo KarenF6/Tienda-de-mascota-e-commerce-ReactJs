@@ -21,8 +21,35 @@
     text-align: center;
 }
 
-.cart-message-center {
+.cart.message.center{
     text-align: center;
     margin-top: 40px;
+    
 }
+
+.counter-button {
+    cursor: pointer;
+    font-weight: bold;
+    max-width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid #666;
+    border-radius: 10px;
+    padding: 20px;
+    transition: .3s;
+
+}
+
+.cart-delete-button{
+    cursor: pointer;
+    max-width: 200px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid #666;
+    border-radius: 10px;
+    padding: 20px;
+    transition: .3s;
+
+}
+
 
