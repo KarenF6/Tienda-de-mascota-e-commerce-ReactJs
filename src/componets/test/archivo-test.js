@@ -8,20 +8,15 @@ test('renders learn react link', () => {
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
-describe("Navbar", ()=> {
-  it("must display a title",() =>);
-  {
+test('funcionalidades navbar', () => {
     render(<Navbar />);
-    expect(screen.queryByText(/Navbar/i)).toBeInTheDocument();
+    const linkElement = screen.getByText(/learn react/i);
+    expect(linkElement).toBeInTheDocument();
+  });
 
-  }
-})
-
-describe("Products", ()=> {
-  it("products price",() =>);
-  {
+  test('funcionalidades products', () => {
     render(<Products />);
-    expect(screen.queryByText(/Products/i)).toBeInTheDocument();
-
-  }
-})
+    const linkElement = screen.getByText(/learn react/i);
+    expect(linkElement).toBeInTheDocument();
+  });
+  
